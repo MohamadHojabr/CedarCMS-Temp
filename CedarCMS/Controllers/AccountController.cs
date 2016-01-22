@@ -28,6 +28,7 @@ namespace CedarCMS.Controllers
 
         public AccountController()
         {
+
         }
 
         public AccountController(ApplicationUserManager userManager,
